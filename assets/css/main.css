@@ -1363,7 +1363,7 @@
 		input[type="reset"].style1,
 		button.style1,
 		.button.style1 {
-			background: #e97770 url("images/overlay.png");
+			background: #93BBCF url("images/overlay.png");
 			color: #fff;
 		}
 
@@ -1481,7 +1481,7 @@
 /* Feature List */
 
 	.feature-list h3 {
-		color: #e97770 !important;
+		color: #93BBCF !important;
 	}
 
 		.feature-list h3:before {
@@ -1557,7 +1557,7 @@
 			}
 
 		.wrapper.style1 {
-			background: #e97770 url("images/overlay.png");
+			background: #93BBCF url("images/overlay.png");
 			color: #eee;
 			color: rgba(255, 255, 255, 0.75);
 		}
@@ -1734,7 +1734,7 @@
 	}
 
 		#highlights .highlight h3 {
-			color: #e97770;
+			color: #93BBCF;
 		}
 
 /* Copyright */
